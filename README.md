@@ -61,5 +61,3 @@ python animation.py --input_name <input_file_name>
 
 This will automatically start a new training phase with noise padding mode.
 The data used for the user study can be found in the Downloads folder. 
-
-real folder: 50 real images, randomly picked from the [places database](http://places.csail.mit.edu/)
